@@ -6,7 +6,7 @@ about squares status:
 0 = clean
 1 = dirty
 
-about position:
+about side:
 -1 = left
 1 = right
 '''

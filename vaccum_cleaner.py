@@ -7,7 +7,7 @@ class VaccumCleaner():
 
     def check_and_return_current_square(self, squares):
         for square in squares:
-            if square.position == self.position:
+            if square.side == self.position:
                 return square
 
     def cleanup(self, square : Square):
